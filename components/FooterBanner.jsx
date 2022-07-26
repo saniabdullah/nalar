@@ -8,7 +8,7 @@ const FooterBanner = () => {
     <div className='footer-banner-container'>
       <div className='banner-desc'>
         <div className='left'>
-          <p>Angkrirangan</p>
+          <p>Angkringan</p>
         </div>
         <div className='right'>
           <h3>Coming Soon</h3>
